@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.example.mysmall.app.main",
+      "rules": {
+        "login": "MainActivity"
+      },
+      "type": "app"
+    }
+  ]
+}
